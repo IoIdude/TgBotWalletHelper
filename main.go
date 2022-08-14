@@ -7,7 +7,7 @@ import (
 
 var (
 	// глобальная переменная в которой храним токен
-	telegramBotToken = "5213078603:AAHU-tUKBC0fLu-enOpLJwk9WCDz2ekB0mQ"
+	telegramBotToken = "///"
 )
 
 func main() {
